@@ -5,7 +5,7 @@ It can perform simple arithmetic operations like addition, subtraction, multipli
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Easy-to-use interface
 - Supports:
